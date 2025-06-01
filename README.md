@@ -1,1 +1,1 @@
-# Página inicial com os conceitos básicos aprendidos no curso com um leve toque a mais de implementação
+# Página inicial que apresenta os conceitos básicos aprendidos ao longo do curso, com um leve acréscimo de implementação para enriquecer o conteúdo.
